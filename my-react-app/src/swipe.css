@@ -1,0 +1,58 @@
+/* Basic styling for the body if not already present */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #000; /* Ensure body background is black */
+}
+
+/* Hide scrollbar for the thumbnail container, but keep scroll functionality */
+.d-flex.gap-3.overflow-hidden {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.d-flex.gap-3.overflow-hidden::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
+
+/* Ensure the full height for the main content area */
+.min-vh-100 {
+  min-height: 100vh;
+}
+
+/* Adjustments for the main content box on the left */
+.position-absolute.top-0.start-0.w-100.h-100.d-flex.flex-column.justify-content-between.p-5 {
+  padding-left: 5rem !important; /* Adjust as needed */
+  padding-right: 5rem !important; /* Adjust as needed */
+}
+
+/* Specific styling for the main title */
+.display-3.fw-bold.text-uppercase {
+    font-size: 3.5rem; /* Adjust font size */
+    line-height: 1.1;
+}
+
+/* Adjust button styling to match the image */
+.btn-warning.rounded-pill {
+    background-color: #ffc107; /* Bootstrap yellow */
+    border-color: #ffc107;
+    color: #000;
+    padding: 0.75rem 2rem;
+    font-size: 1rem;
+}
+
+.btn-warning.rounded-pill:hover {
+    background-color: #e0a800;
+    border-color: #e0a800;
+}
+
+/* For the navigation arrows */
+.btn-outline-light {
+    border-color: rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.btn-outline-light:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #fff;
+}
