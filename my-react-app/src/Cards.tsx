@@ -11,7 +11,7 @@
     id: 1,
     title: 'Pharmacovigilance',
     description: 'It is the science and activities relating to the detection, assessment, understanding and prevention of adverse effects or any other medicine related problem.',
-    image: 'https://previews.123rf.com/images/irfanfirdaus/irfanfirdaus2003/irfanfirdaus200300030/141663198-vector-illustration-pharmacist-at-counter-in-pharmacy-pharmacy-with-pharmacist-in-counter-and.jpg',
+    image: 'https://indo-pride.com/assets/images/services/pharmacovigilance-market.jpg',
     details:'our mobile development services include app development, UI/UX design, and integration with APIs and databases. We use the latest tools and technologies to deliver high-quality mobile apps that meet the needs of our clients and their users.', 
     nextpageurl:"https://neutrinotechsystems.com/wp-content/uploads/2024/10/Pharmacovigilance-Gen-AI.pdf"
   },
@@ -20,7 +20,7 @@
     title: 'Conversational AI for Training Programs',
     description: 'The conversational AI solution improve query handling enhanced customer satisfaction and operational efficiency.',
     
-    image: 'https://www.kommunicate.io/blog/wp-content/uploads/2021/07/Blog-Covers-36.jpg'
+    image: 'https://as1.ftcdn.net/v2/jpg/12/91/58/06/1000_F_1291580648_F8g29GofTz38Ck1glQNrYMWJ4qptDKtJ.jpg'
      ,details: `Our company provides data science services to help you extract meaningful insights from your data.
 With expertise in statistical analysis and data visualization, we can help you make data-driven decisions to enhance your business strategy.`,
 nextpageurl:"https://neutrinotechsystems.com/wp-content/uploads/2023/09/Conversational-AI-for-Training-Programs.pdf"
